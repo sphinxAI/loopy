@@ -1,5 +1,8 @@
 인턴연수생
 ---------
+- WBS
+  - Atom 설치
+  - Atom 패키지 Markdown-mindmap 설치
 - Git 세팅
   - Github 계정 만들기
   - SourceTree 설치 및 저장소 연결
