@@ -8,4 +8,4 @@
   - SourceTree 설치 및 저장소 연결
 - Object detection output txt file loading
 - JSON file loading
-- calculate mAP, precision, sensitivity,
+- calculate mAP, precision, sensitivity, ...
